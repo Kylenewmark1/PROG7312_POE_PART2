@@ -79,6 +79,7 @@ To build and run the Dewey Decimal Library project, follow the steps below:
 ### Initializing from GitHub
 
 1. Clone the project repository from GitHub using the following command:https://github.com/Kylenewmark1/PROG7312_POE_PART2
+2. Navigate to the project directory:
 
 3. Open the project in your preferred C# development environment.
 
@@ -110,6 +111,25 @@ In Part 2 of the project, the following requirements have been added:
 
 1. Store the call numbers and their descriptions in a dictionary.
 
+## Requirements
+
+The following requirements must be added to the application created in Part 1:
+
+1. Enable the Identifying areas task.
+2. When the user chooses the Identifying areas task, they should be presented with a user interface where they will match two columns: call number (top level only) and description.
+3. The user shall be allowed to answer as many questions* as they want to.
+4. The questions should alternate between matching descriptions to call numbers and call numbers to descriptions.
+5. Each question should have four randomly selected items in the first column, and seven possible answers (three of which are incorrect) in the second column.
+6. Implement a gamification feature to motivate users to keep using the application. You may use the same one as before or choose to implement a different one.
+
+*Note: A question in this context is defined as the whole matching the columns set, including both columns.
+
+### Technical Requirements:
+
+1. Store the call numbers and their descriptions in a dictionary.
+
+Please ensure to add this content to your project repository in the "Requirements" section of the README.
+
 ## How to Use
 
 1. Build and run the project following the instructions provided above.
@@ -123,4 +143,3 @@ In Part 2 of the project, the following requirements have been added:
 ## License
 
 This Dewey Decimal Library project is open-source and available under the [MIT License](LICENSE).
-
