@@ -79,7 +79,6 @@ To build and run the Dewey Decimal Library project, follow the steps below:
 ### Initializing from GitHub
 
 1. Clone the project repository from GitHub using the following command:https://github.com/Kylenewmark1/PROG7312_POE_PART2
-2. Navigate to the project directory:
 
 3. Open the project in your preferred C# development environment.
 
@@ -124,5 +123,4 @@ In Part 2 of the project, the following requirements have been added:
 ## License
 
 This Dewey Decimal Library project is open-source and available under the [MIT License](LICENSE).
-
 
